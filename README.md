@@ -1,4 +1,4 @@
-### Olá, meu nome é Michelangelo 👋
+ <u><h2>Olá, meu nome é Michelangelo 👋</h2></u>  
 
 
 - 🔭 Hoje trabalho como desenvolvedor front-end.
