@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou atuando como desenvolvedor front-end.
-- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript e React Native. 
+- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript, React Native, UI e UX. 
 
  <div>
   <a href="https://github.com/michelangeloPezzini">
