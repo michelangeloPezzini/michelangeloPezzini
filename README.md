@@ -1,7 +1,7 @@
 ### Olá, meu nome é Michelangelo 👋
 
 
-- 🔭 Hoje estou atuando como desenvolvedor front-end.
+- 🔭 Hoje trabalho como desenvolvedor front-end.
 - 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript, React Native, UI e UX. 
 
  <div>
