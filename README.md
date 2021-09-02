@@ -1,9 +1,13 @@
- <u><h2>Olá, meu nome é Michelangelo 👋</h2></u>  
+ <u><h2>Olá, meu nome é Michelangelo 👋</h2></u>  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="160" height="160" align="right" border="0" alt="https://picasion.com/" /></a><br/>
 
 
 - 🔭 Hoje trabalho como desenvolvedor front-end.
-- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript, React Native, UI e UX. 
+- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript, Bootstrap, React Native, UI e UX.
+- 🌎 Inglês avançado.
+- 📸 Sou fotógrafo amador, me siga no instagram.  
 
+<br>
+<hr>
  <div>
   <a href="https://github.com/michelangeloPezzini">
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=michelangeloPezzini&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,12 +26,12 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mike-boot" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain.svg">
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg">
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="160" height="160" align="right" border="0" alt="https://picasion.com/" /></a><br/>
+ 
  
  
 </div>
  <hr>
- <u><h2>Conecte-se comigo</h2></u>  
+ <u><h2>Conecte-se comigo!</h2></u>  
 <div> 
   <a href="https://www.instagram.com/michelangelo_pezzini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michelangelo-giuseppe-pezzini-820591185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
