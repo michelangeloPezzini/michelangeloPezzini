@@ -33,7 +33,7 @@
  <hr>
  <u><h2>Conecte-se comigo!</h2></u>  
 <div> 
-  <a href="https://www.instagram.com/michelangelo_pezzini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/michelangelo_pezzini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michelangelo-giuseppe-pezzini-820591185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  ![Snake animation](https://github.com/michelangeloPezzini/michelangeloPezzini/blob/output/github-contribution-grid-snake.svg)
