@@ -1,4 +1,4 @@
- <u><h2>Olá, meu nome é Michelangelo 👋</h2></u>  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="160" height="160" align="right" border="0" alt="https://picasion.com/" /></a><br/>
+ <u><h2>Hello, my name is Michelangelo 👋</h2></u>  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="160" height="160" align="right" border="0" alt="https://picasion.com/" /></a><br/>
 
 
 - 🔭 Today I work as a front-end developer.
