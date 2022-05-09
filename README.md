@@ -1,10 +1,10 @@
  <u><h2>Olá, meu nome é Michelangelo 👋</h2></u>  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="160" height="160" align="right" border="0" alt="https://picasion.com/" /></a><br/>
 
 
-- 🔭 Hoje trabalho como desenvolvedor front-end.
-- 🌱 Atualmente estou estudando HTML5, CSS3, React, Javascript, Jquery, Python, GIT, Github and UI.
-- 🌎 Inglês avançado.
-- 📸 Sou fotógrafo amador, me siga no instagram.  
+- 🔭 Today I work as a front-end developer.
+- 🌱 I'm currently studying HTML5, CSS3, React, Javascript, Jquery, Python, GIT, Github and UI.
+- 🌎 Advanced English.
+- 📸 I'm an amateur photographer, follow me on instagram.
 
 <br>
 <hr>
