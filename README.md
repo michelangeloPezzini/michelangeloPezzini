@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como desenvolvedor front-end.
-- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript, Bootstrap, React js, UI e UX.
+- 🌱 Atualmente estou estudando HTML5, CSS3, React, Javascript, Jquery, Python, GIT, Github and UI.
 - 🌎 Inglês avançado.
 - 📸 Sou fotógrafo amador, me siga no instagram.  
 
