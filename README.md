@@ -4,7 +4,7 @@
 - 🌎 Advanced English.
 - 📸 I'm an amateur photographer, follow me on instagram.
 
-
+<br>
 <u><h2>Conect with me!</h2></u> 
 <a href="https://www.instagram.com/michelangelo_pezzini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michelangelo-giuseppe-pezzini-820591185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
