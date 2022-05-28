@@ -1,10 +1,10 @@
- <u><h2>Hello, my name is Michelangelo 👋</h2></u>  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="140" height="140" border="0" alt="https://picasion.com/" /></a>
- <div align="right">
+ <u><h2>Hello, my name is Michelangelo 👋</h2></u>  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="140" height="140" align="right" border="0" alt="https://picasion.com/" /></a>
+ 
 - 🔭 Today I work as a front-end developer.
 - 🌱 I'm currently studying HTML5, CSS3, React, Javascript, Jquery, Python, GIT, Github and UI.
 - 🌎 Advanced English.
 - 📸 I'm an amateur photographer, follow me on instagram.
-</div>
+
 <br>
 <u><h2>Conect with me!</h2></u> 
 <a href="https://www.instagram.com/michelangelo_pezzini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
