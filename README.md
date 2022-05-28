@@ -1,4 +1,5 @@
- <u><h2>Hello, my name is Michelangelo 👋</h2></u>  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="140" height="140" align="right" border="0" alt="https://picasion.com/" /></a>
+ <u><h2>Hello, my name is Michelangelo 👋</h2></u>  
+ <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="140" height="140" align="right" border="0" alt="https://picasion.com/"/></a>
  
 - 🔭 Today I work as a front-end developer.
 - 🌱 I'm currently studying HTML5, CSS3, React, Javascript, Jquery, Python, GIT, Github and UI.
