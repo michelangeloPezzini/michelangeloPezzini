@@ -38,6 +38,7 @@
   
 <div> 
  
+ 
  ![Snake animation](https://github.com/michelangeloPezzini/michelangeloPezzini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
