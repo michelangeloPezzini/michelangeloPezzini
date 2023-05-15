@@ -2,7 +2,7 @@
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="140" height="140" align="right" border="0" alt="https://picasion.com/"/></a>
  
 - 🔭 Today I work as a front-end developer.
-- 🌱 I'm currently studying HTML5, CSS3, React, Javascript, Jquery, NodeJS, Python, GIT, Github and UI.
+- 🌱 I'm currently studying HTML5, CSS3, SaaS, React JS, Javascript, Node JS, C#, Jquery, NodeJS, Python, GIT, Github.
 - 🌎 Advanced English.
 - 📸 I'm an amateur photographer, follow me on instagram.
 
