@@ -2,7 +2,7 @@
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="140" height="140" align="right" border="0" alt="https://picasion.com/"/></a>
  
 - 🔭 I am a student of "Applied Technology" at BYU Idaho. I plan to be a software engineer in the future.
-- 🌱 I'm currently studying HTML5, CSS3, SaaS, React JS, Javascript, Node JS, C#, Jquery, NodeJS, Python, GIT, Github.
+- 🌱 Currently I have knowlege in a diverse toolset, including HTML5, CSS3, SaaS, React JS, Javascript, Node JS, C#, SQL, NodeJS, Python, GIT, Github, and Linux, I'm driven to cultivate a comprehensive skill portfolio to become a Full-Stack Developer.
 - 🌎 Advanced English.
 - 📸 I'm an amateur photographer, follow me on instagram.
 
