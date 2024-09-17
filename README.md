@@ -1,6 +1,6 @@
  <u><h2>Hello, my name is Michelangelo 👋</h2></u>  
  
-- 🔭 Hello there! I'm a student of Software Development at BYU Idaho and work as a Support Engineer at SAP.
+- 🔭 I'm a student of Software Development at BYU Idaho and work as a Support Engineer at SAP.
 - 🌱 My present focus has been on improving my Software Development expertise from a degree I started to get a high knowledge in IT area and improving skills as a Support Engineer a realm I've embraced through my current job, making a dedicated effort to complete private courses and unwavering commitment. .
 - 🌎 Currently I have knowlege in a diverse toolset, including HTML5, CSS3, SaaS, React JS, Javascript, Node JS, C#, SQL, ORACLE, NodeJS, Python, GIT, Github, Linux and more.
 - 📸 I am also an amateur photographer, follow me on instagram.
