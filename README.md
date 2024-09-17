@@ -1,10 +1,10 @@
  <u><h2>Hello, my name is Michelangelo 👋</h2></u>  
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/64aa7d60345dd8ba6e3281766cab6954.gif" width="140" height="140" align="right" border="0" alt="https://picasion.com/"/></a>
  
-- 🔭 I am a student of "Applied Technology" at BYU Idaho. I plan to be a software engineer in the future.
-- 🌱 Currently I have knowlege in a diverse toolset, including HTML5, CSS3, SaaS, React JS, Javascript, Node JS, C#, SQL, NodeJS, Python, GIT, Github, and Linux, I'm driven to cultivate a comprehensive skill portfolio to become a Full-Stack Developer.
-- 🌎 Advanced English.
-- 📸 I'm an amateur photographer, follow me on instagram.
+- 🔭 Hello there! I'm a student of Software Development at BYU Idaho and work as a Support Engineer at SAP.
+- 🌱 My present focus has been on improving my Software Development expertise from a degree I started to get a high knowledge in IT area and improving skills as a Support Engineer a realm I've embraced through my current job, making a dedicated effort to complete private courses and unwavering commitment. .
+- 🌎 Currently I have knowlege in a diverse toolset, including HTML5, CSS3, SaaS, React JS, Javascript, Node JS, C#, SQL, ORACLE, NodeJS, Python, GIT, Github, Linux and more.
+- 📸 I am also an amateur photographer, follow me on instagram.
 
 <br>
 <h2>Conect with me!</h2>
